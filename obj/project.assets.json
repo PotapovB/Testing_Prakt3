@@ -960,11 +960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\st310-07\\Downloads\\CinemaTicketSystemTests\\CinemaTicketSystemTests.csproj",
+      "projectUniqueName": "C:\\Users\\st310-07\\Downloads\\Testing_Prakt3-main\\CinemaTicketSystemTests.csproj",
       "projectName": "CinemaTicketSystemTests",
-      "projectPath": "C:\\Users\\st310-07\\Downloads\\CinemaTicketSystemTests\\CinemaTicketSystemTests.csproj",
+      "projectPath": "C:\\Users\\st310-07\\Downloads\\Testing_Prakt3-main\\CinemaTicketSystemTests.csproj",
       "packagesPath": "C:\\Users\\st310-07\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\st310-07\\Downloads\\CinemaTicketSystemTests\\obj\\",
+      "outputPath": "C:\\Users\\st310-07\\Downloads\\Testing_Prakt3-main\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

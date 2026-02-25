@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mQ6vb5Apouw=",
+  "dgSpecHash": "vr7I7TKHWm4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\st310-07\\Downloads\\CinemaTicketSystemTests\\CinemaTicketSystemTests.csproj",
+  "projectFilePath": "C:\\Users\\st310-07\\Downloads\\Testing_Prakt3-main\\CinemaTicketSystemTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\st310-07\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\st310-07\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
